@@ -1,5 +1,13 @@
 # Education Inequality
+
+# Authors
+Stephen Yang
+
+# Description
 This project's goal is to determine if socioeconomic factors potentially have a bearing on school performance.
+
+# Requirements
+All analysis was done using Jupyter Notebook through Google Colab.
 
 # Data
 School ACT and SAT data was collected from Edgap.org. Some information from schools was also gathered from the National Center for Education Statistics.
@@ -15,3 +23,6 @@ The file data_prep/Education_Inequality_Data_Preparation.ipynb was used to compl
 Using the training and testing datasets, a good regression model using the primary numerical factors was made, and compared to a model factoring in region to see if factoring in region would improve the model significantly. Three main factors were found to be relevant, but factoring in region didn't seem to improve the model significantly.
 
 The file Education_Analysis.ipynb was used to complete the Data Analysis.
+
+# License
+All datasets in this repository, including cleaned datasets, are free to use. All notebooks in this repository are also free to view and modify.

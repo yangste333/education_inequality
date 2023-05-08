@@ -1,4 +1,4 @@
-# Education Inequality
+# Measures of Education Inequality
 
 # Authors
 Stephen Yang
